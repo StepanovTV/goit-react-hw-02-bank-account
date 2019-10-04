@@ -1,0 +1,24 @@
+.history {
+  margin: 0 0 40px 0;
+  text-align: center;
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.history thead {
+  background-color: #062c56;
+  color: white;
+}
+
+.history th,
+.history td {
+  padding: 10px;
+}
+
+.history tr:nth-child(even) {
+  background: #eee;
+}
+
+.history thead tr {
+  background-color: #062c56;
+}

@@ -1,0 +1,16 @@
+.balance {
+  font-size: 20px;
+  text-align: center;
+}
+
+.icoUp {
+  color: rgb(34, 168, 0);
+}
+
+.icoDown {
+  color: rgb(218, 12, 12);
+}
+
+.balance > span {
+  margin: 0 25px;
+}
